@@ -1,0 +1,30 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(80, 80, 80);
+  }
+  
+  li {
+    float: left;
+    background-color: rgb(80, 80, 80);
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: rgb(53, 52, 52);
+  }
+  
+#floated {
+  float: rig70ht
+}
+
